@@ -3,8 +3,11 @@ You can mint NFTS to opensea in Presale if whitelisted or in Publicsale after Pr
 [View Web](https://nft-collection-fawn.vercel.app/).
 
 ##Design
+
 ###Starter Page:
+
 ![image](https://user-images.githubusercontent.com/102557215/184026262-e4a4921c-2390-4965-91f4-07953c9fe27c.png)
+
 
 ##Pre-Sale
 ###Starting the presale
