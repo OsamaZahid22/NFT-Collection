@@ -47,10 +47,15 @@ You can mint NFTS to opensea in Presale if whitelisted or in Publicsale after Pr
 Follow the steps to install this on your PC
 
 1.Fork the Github project by clicking on the Fork button at the top of this README.md
+
 2.Clone the project onto your desktop
+
 3.Make sure you have pnpm installed, if not install it by running npm i -g pnpm
+
 4.For hardhat installations run cd hardhat && pnpm install
+
 5.For my-app installations run cd my-app && pnpm install
+
 6.Run the my-app by running cd my-app && pnpm dev
 
 
